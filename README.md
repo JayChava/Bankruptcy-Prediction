@@ -8,5 +8,7 @@ Cases where both machine-learning and GCOs are inaccurate (i.e., incurring eithe
 Using cases where machine-learning is more accurate than auditors, I examine which observable factors are over- or under-weighted by comparing each coefficients.
 
 Research question 1 – Is Machine-learning based GCO issuance more accurate than audit firm’s GCO issuance. 
+
 Research question 2 – What are the legitimate reasons that incur errors?
+
 Research question 3 – Which observable factor does auditors rely too much to make inaccurate GCOs? Where are auditors biased?
